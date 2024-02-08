@@ -1,2 +1,2 @@
 # Rhea
-Here we will be storing ideas....
+Author:_ Rajshekhar Prasad Saxena.
