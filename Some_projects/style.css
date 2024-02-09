@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.projects {
+    height: 700px;
+    width: 350px;
+    text-align: center;
+}
+
+.heading1 {
+    font-family: Bree Serif;
+    text-align: center;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.paragraph1 {
+    font-family: Bree Serif;
+    color: #616e7c;
+    font-size: 13px;
+    text-align: center;
+}
+
+.ar_vr {
+    margin: 0px 10px 10px 10px;
+}
+
+.food {
+    margin: 0px 10px 10px 10px;
+}
+
+.container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 500px;
+    width: 345px;
+    background-size: cover;
+}
+
+.card {
+    height: 200px;
+    width: 345px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.card1 {
+    padding: 15px;
+}
+
+.heading {
+    font-family: Bree Serif;
+    font-size: 25px;
+    color: #5752ab;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.button2 {
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #5752ab;
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.button1 {
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container12 {
+    width: 370px;
+    height: 500px;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+    background-size: cover;
+}
+
+.card12 {
+    background-color: white;
+    width: 370px;
+    height: 240px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.first12 {
+    margin-left: 10px;
+    font-family: Roboto;
+    font-size: 13px;
+    color: #7b8794;
+}
+
+.second12 {
+    margin-left: 10px;
+}
+
+.heading12 {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.paragraph12 {
+    color: #7b8794;
+    font-family: Roboto;
+    font-size: 13px;
+}
+
+
+.button12 {
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-size: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.coding-container45 {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    height: 600px;
+    width: 400px;
+    background-size: cover;
+}
+
+.coding-card45 {
+    background-color: #f6c56e;
+    color: #323f4b;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    padding: 15px;
+}
+
+.button45 {
+    background-color: #ffffff;
+    font-family: Roboto;
+    border-radius: 5px;
+}
+
+.heading45 {
+    font-family: Bree Serif;
+}
+
+.paragraph45 {
+    font-family: Roboto;
+}
+
+.button123{
+    height: 45px;
+    width: 100px;
+    background-color: blue;
+    padding: 3px;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.precaution{
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 23px;
+    color: rgb(89,17,75);
+    margin: 20px;
+}
+
+.loading{
+    border: 8px solid #f3f3f3; 
+    border-top: 6px solid #3498db;
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite; /* Make it spin */
+    margin: auto;
+}
+ @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+.processing{
+    text-align: center;
+}
+
+
+
+
+
