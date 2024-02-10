@@ -129,6 +129,7 @@
     padding-right: 18px;
 }
 
+
 .coding-container45 {
     background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
     height: 600px;
@@ -193,6 +194,8 @@
   }
 .processing{
     text-align: center;
+    height: 500px;
+    width: 345px;
 }
 
 
