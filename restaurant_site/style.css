@@ -107,3 +107,28 @@
     font-weight: 500;
     font-style: italic;
 }
+.em-section-heading{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 28px;
+    color: #183b56;
+}
+.em-item-card{
+    border-radius: 16px;
+}
+.em-image{
+    border-radius: 16px;
+}
+.em-card-title{
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.em-item-link{
+    color: #d0b200;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+}
