@@ -132,3 +132,31 @@
     font-weight: 500;
     font-size: 14px;
 }
+.hf-section{
+    background-color: rgb(249, 251, 254);
+    border-radius: 16px;
+    
+}
+.hf-section-image{
+    width: 270px;
+}
+.hf-section-heading{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.hf-section-discription{
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.hf-section-button{
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
