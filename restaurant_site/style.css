@@ -149,7 +149,7 @@
 .hf-section-discription{
   color: #5a7184;
   font-family: "Roboto";
-  font-size: 16px;
+  font-size: 18px;
 }
 .hf-section-button{
     color: white;
@@ -159,4 +159,35 @@
     border-width: 0;
     border-radius: 8px;
     margin-right: 10px;
+}
+.pay-section-image{
+    width: 270px;
+}
+.pay-section-heading{
+  color: #183b57;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.pay-section-description{
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.pay-section-button{
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.pay-section-ways-image{
+    height: 50px;
+    width: 50px;
+    margin-right: 25px;
+}
+.pay-section-discount{
+    font-weight: 700;
 }
