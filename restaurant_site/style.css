@@ -133,9 +133,7 @@
     font-size: 14px;
 }
 .hf-section{
-    background-color: rgb(249, 251, 254);
-    
-    
+    background-color: rgb(249, 251, 254); 
 }
 .hf-section-image{
     width: 270px;
@@ -208,7 +206,7 @@
     margin-right: 10px;
 }
 .tc-section-heading{
-    color: #183b57;
+    color: #183b60;
     font-family: "Roboto";
     font-size: 28px;
     font-weight: 700;
