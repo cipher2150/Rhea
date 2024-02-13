@@ -57,6 +57,7 @@
     border-width: 2px;
     border-radius: 8px;
     margin-right: 10px;
+    border-color: white;
 }
 #order-button{
     font-weight: 600;
@@ -149,15 +150,6 @@
   font-family: "Roboto";
   font-size: 18px;
 }
-.hf-section-button{
-    color: white;
-    background-color: #d0b200;
-    width: 130px;
-    height: 45px;
-    border-width: 0;
-    border-radius: 8px;
-    margin-right: 10px;
-}
 .pay-section-image{
     width: 270px;
 }
@@ -171,15 +163,6 @@
   color: #5a7184;
   font-family: "Roboto";
   font-size: 18px;
-}
-.pay-section-button{
-    color: white;
-    background-color: #d0b200;
-    width: 130px;
-    height: 45px;
-    border-width: 0;
-    border-radius: 8px;
-    margin-right: 10px;
 }
 .pay-section-ways-image{
     height: 50px;
@@ -195,15 +178,6 @@
 .tc-section-image{
     width: 270px;
     margin-bottom: 20px;
-}
-.tc-section-button{
-    color: white;
-    background-color: #d0b200;
-    width: 130px;
-    height: 45px;
-    border-width: 0;
-    border-radius: 8px;
-    margin-right: 10px;
 }
 .tc-section-heading{
     color: #183b60;
