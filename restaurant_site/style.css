@@ -24,7 +24,7 @@
 }
 .banner-section-bg-container{
     background-image: url("https://img.freepik.com/premium-photo/food-item-background-wallpaper_492154-7058.jpg");
-    height: 90vh;
+    height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -189,4 +189,22 @@
     color: #5a7184;
     font-family: "Roboto";
     font-size: 18px;
+}
+.fu-section-heading{
+    color: #2d5589;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.icon{
+    color: #d0b200;
+    font-size: 35px;
+}
+.fu-section-icon-container{
+    width: 90px;
+    height: 90px;
+    background-color: #faf7e8;
+    padding: 27px 18px 10px 22px;
+    margin: 15px;
+    border-radius: 40px;
 }
