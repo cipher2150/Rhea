@@ -173,7 +173,7 @@
     font-weight: 700;
 }
 .tc-section{
-    background-color: #d0b2001a;
+    background-image: radial-gradient(#ecd344, #ad9300);
 }
 .tc-section-image{
     width: 270px;
@@ -189,6 +189,12 @@
     color: #5a7184;
     font-family: "Roboto";
     font-size: 18px;
+}
+.modal-h{
+    color: #948506;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
 }
 .fu-section-heading{
     color: #2d5589;
