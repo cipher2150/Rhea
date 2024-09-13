@@ -23,17 +23,27 @@
     height: 70px;
 }
 .banner-section-bg-container{
-    background-image: url("https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/health/wp-content/uploads/2022/01/foods_to_eat_to_lose_weight.jpeg");
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    /*background-image: url("https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/health/wp-content/uploads/2022/01/foods_to_eat_to_lose_weight.jpeg");*/
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .banner-heading{
-    color: white;
+    color: rgb(222, 241, 9);
     font-family: "Roboto";
     font-size: 45px;
     font-weight: 345;
 }
+
+.main {
+    color: #cf4206;
+    font-weight: 800;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
 .paragraph{
     color: #f0f409;
     font-family: "Roboto";
